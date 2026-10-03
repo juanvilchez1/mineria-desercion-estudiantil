@@ -1,0 +1,4 @@
+Modelo,Exactitud_media,Exactitud_DE,Precisión_media,Precisión_DE,Sensibilidad_media,Sensibilidad_DE,F1_media,F1_DE,ROC_AUC_media,ROC_AUC_DE
+Regresión logística,86.15,1.33,77.19,2.7,80.91,1.88,78.98,1.84,92.07,0.81
+Árbol de decisión,83.7,1.64,72.93,3.6,78.81,1.81,75.68,1.86,88.27,1.23
+Random Forest,87.29,1.32,82.53,3.18,76.78,1.54,79.53,1.94,91.92,1.16

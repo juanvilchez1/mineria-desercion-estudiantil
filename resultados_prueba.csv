@@ -1,0 +1,4 @@
+Modelo,Exactitud,Precisión,Sensibilidad,F1,ROC_AUC,TN,FP,FN,TP
+Regresión logística,88.02,79.67,84.15,81.85,93.12,540,61,45,239
+Árbol de decisión,85.08,75.0,80.28,77.55,90.28,525,76,56,228
+Random Forest,88.36,83.9,78.87,81.31,93.47,558,43,60,224
